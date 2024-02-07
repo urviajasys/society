@@ -1,0 +1,11 @@
+{
+  "name": "society",
+  "version": "1.0.0",
+  "description": "erp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
